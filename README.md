@@ -1,7 +1,7 @@
-### Hi there 👋
+## MANFRED JOA | Full Stack Software Engineer
 
-<h3 align="center">🛠 My Skills</h3>
-<p align="center">
+<h3 >🛠 My Skills</h3>
+<p>
 
   <!-- Languages -->
   <img alt="JavaScipt" src="https://img.shields.io/badge/JavaScript-black?logo=javascript" />
@@ -19,7 +19,7 @@
   <img alt="JWT" src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens"/>
 </p>
 
-<p align="center">
+<p>
   <!-- Databases -->
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?logo=mongodb"/>
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-black?logo=mongoose"/>
