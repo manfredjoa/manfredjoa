@@ -1,8 +1,8 @@
-## MANFRED JOA | Full Stack Software Engineer
+## Manfred Joa 
+### 👨🏻‍💻 Full Stack Software Engineer
 
-<h3 >🛠 My Skills</h3>
+#### 🛠 My Skills
 <p>
-
   <!-- Languages -->
   <img alt="JavaScipt" src="https://img.shields.io/badge/JavaScript-black?logo=javascript" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-black?logo=typescript" />
@@ -18,7 +18,6 @@
   <img alt="Django" src="https://img.shields.io/badge/Django-black?logo=django"/>
   <img alt="JWT" src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens"/>
 </p>
-
 <p>
   <!-- Databases -->
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?logo=mongodb"/>
@@ -32,12 +31,13 @@
   <!-- Design & Web -->
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-black?logo=html5"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-black?logo=css3"/>
-
-
-
-
-
 </p>
+
+#### 🎨 [Portfolio](https://manfredjoadev.netlify.app/)
+
+#### 📇 Contact
+- 🔗 [LinkedIn](https://www.linkedin.com/in/manfredjoa/)
+- 📧 [Email](mailto:joamanfred@gmail.com)
 
 <!--
 **manfredjoa/manfredjoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
